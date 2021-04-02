@@ -7,15 +7,3 @@
 <!---
 RuHak/RuHak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-- 👋 Привет, я @RuHak
-2
-- 👀 Меня интересует ...
-3
-- 🌱 Я сейчас учусь ...
-4
-- 💞️ Я хочу сотрудничать над ...
-5
-- 📫 Как до меня добраться ...
-6
-I want to do self-education and I will be grateful if you don’t swear for mistakes, but you will help)))) for earlier thanks
